@@ -1,0 +1,1 @@
+Nombre				Domicilio				Codigo		Tipo Boleto
