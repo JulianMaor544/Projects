@@ -1,6 +1,5 @@
-//Proyecto de ProgramaciÛn 1.
-//Juan Manuel Grimaldo Castillo. 177270
-//JosÈ Juli·n Martinez Ornelas. 173416
+//Proyecto de Programaci√≥n 1.
+//Jos√© Juli√°n Martinez Ornelas. 173416
 
 //Declaracion de librerias
 #include <stdio.h>
@@ -378,7 +377,7 @@ void punto2()	{
 	//Se abre el archivo y se lee, luego se imprime caracter por caracter, esto con los puntos 2,3 y 4
 	archivo1=fopen("punto2.txt","r");
 	if (archivo1==NULL){  
-		printf("\nEl archivo prueba no existe \n\n"); //SeÒala si hubo un error al abrir el archivo prueba 
+		printf("\nEl archivo prueba no existe \n\n"); //Se√±ala si hubo un error al abrir el archivo prueba 
 		getch();
 		exit(1); //salir
 	}
